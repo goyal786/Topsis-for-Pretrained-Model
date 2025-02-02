@@ -26,3 +26,5 @@ This project implements the **TOPSIS (Technique for Order Preference by Similari
 ### Visualization
 A **bar chart**  is generated to visually compare the AI model rankings, helping users make informed decisions.
 
+
+![topsis_ranking](https://github.com/user-attachments/assets/c88f7a66-05a0-463b-a465-63d442addb79)
